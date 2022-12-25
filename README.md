@@ -11,4 +11,4 @@ Task:
 - Data analysis & Models
 - Visualize result 
 
-![Logo](Screen Shot 2022-12-25 at 5.21.27 AM.png)
+![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.21.27%20AM.png?raw=true)
