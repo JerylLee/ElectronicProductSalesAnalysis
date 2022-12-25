@@ -10,3 +10,5 @@ Task:
 - Data processing & Data cleaning
 - Data analysis & Models
 - Visualize result 
+
+![Logo](Screen Shot 2022-12-25 at 5.21.27 AM.png)
