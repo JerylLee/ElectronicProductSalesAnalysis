@@ -15,5 +15,7 @@ Tool:
 - SQL (clean data)
 - Microsoft Excel ( clean data, create dashborad) 
 ![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.21.27%20AM.png?raw=true)
+
 ![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.21.37%20AM.png?raw=true)
 
+![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.33.01%20AM.png?raw=true)
