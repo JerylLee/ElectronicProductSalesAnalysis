@@ -14,15 +14,15 @@ Objectives:
 The main objective is to extract key performance indicators (KPIs) that will help to make data-driven decisions and improve company business. 
 
 Task: 
--Data Cleaning and Preprocessing: The raw data will be cleaned and prepared for analysis. This includes removing duplicates, dealing with missing values, and standardizing data types.
+- Data Cleaning and Preprocessing: The raw data will be cleaned and prepared for analysis. This includes removing duplicates, dealing with missing values, and standardizing data types.
 
--Exploratory Data Analysis: Descriptive statistics and data visualizations will be used to gain insights into the data. Key metrics such as total revenue, number of orders, and average order value will be calculated.
+- Exploratory Data Analysis: Descriptive statistics and data visualizations will be used to gain insights into the data. Key metrics such as total revenue, number of orders, and average order value will be calculated.
 
--Time-Series Analysis: Time-series analysis will be performed to identify trends in sales performance over time. This will include identifying seasonal patterns and detecting any anomalies in sales.
+- Time-Series Analysis: Time-series analysis will be performed to identify trends in sales performance over time. This will include identifying seasonal patterns and detecting any anomalies in sales.
 
--Customer Segmentation: Clustering techniques will be used to segment customers based on purchase behavior and demographics. This will help identify high-value customer segments and provide insights into their purchase behavior.
+- Customer Segmentation: Clustering techniques will be used to segment customers based on purchase behavior and demographics. This will help identify high-value customer segments and provide insights into their purchase behavior.
 
--Recommendations: Based on the insights gained from the analysis, recommendations will be provided for improving sales performance. These may include targeted marketing campaigns, improving website design and user experience, and optimizing product offerings.
+- Recommendations: Based on the insights gained from the analysis, recommendations will be provided for improving sales performance. These may include targeted marketing campaigns, improving website design and user experience, and optimizing product offerings.
 
 Tool:
 - SQL (clean data)
