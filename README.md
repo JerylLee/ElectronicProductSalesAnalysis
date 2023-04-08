@@ -1,7 +1,7 @@
 # Electronic Product Sales Data Analysis
 
 Introduction:
-The aim of this project is to analyze the sales data of an e-commerce website over a period of 1 year (2022-2023) and provide insights to help improve sales performance. The dataset used in this project contains information on customer demographics, product categories, purchase dates, and order amounts.
+The aim of this project is to analyze the sales data of an e-commerce website over the years and provide insights to help improve sales performance. The dataset used in this project contains information on customer demographics, product categories, purchase dates, and order amounts.
 
 Objectives:
 
