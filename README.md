@@ -37,6 +37,8 @@ Data Cleaning
 
 ![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.21.37%20AM.png?raw=true)
 
+![Logo](https://github.com/JerylLee/ElectronicProductSalesAnalysis/blob/main/Screen%20Shot%202023-04-23%20at%204.44.16%20PM.png?raw=true)
+
 ![Logo](https://github.com/JerylLee/Ecommerce-Sales-Data-Analysis/blob/main/Screen%20Shot%202022-12-25%20at%205.33.01%20AM.png?raw=true)
 
 
